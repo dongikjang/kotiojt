@@ -10,6 +10,8 @@
 5. Advance data manipulation with R
 6. Data mining with R
 7. Open API with XML and JSON
+
+
 ## Statistical Analysis and Visualization with R
 1. RgoogleMaps: Google Map with R
 2 Complex multi-layered graphics 
@@ -20,4 +22,6 @@
 -- rCharts
 -- googleVis
 5. Interactive web applications from R
+
+
 ## Advanced Statistical Analysis with R
