@@ -15,13 +15,15 @@
 ## Statistical Analysis and Visualization with R
 1. RgoogleMaps: Google Map with R
 2. Complex multi-layered graphics
-i) ggplot2 
+i) ggplot2, 
 ii) ggmap: ggplot2 with Google Map
 3. Geospatial Data in R
 4. Interactive charts from R 
-i) rCharts
+i) rCharts,
 ii) googleVis
 5. Interactive web applications from R
-
+i) shiny, 
+ii) plotGoogleMaps: Interactive mashup over Google Maps, 
+iii) leafletR
 
 ## Advanced Statistical Analysis with R
