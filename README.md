@@ -27,3 +27,12 @@ ii) plotGoogleMaps: Interactive mashup over Google Maps,
 iii) leafletR
 
 ## Advanced Statistical Analysis with R
+1. Regression 
+i)Linear model
+ii) Classification 
+iii) Model selection
+2. Advanced Computing
+i) Low level language with R 
+ii) Big data with R
+iii) Parallels computing 
+iv) Hadoop
