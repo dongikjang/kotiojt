@@ -4,9 +4,8 @@
 
 ## Some R Essentials: Getting Started as a Data Scientist
 
-Install 
-
-Some R essentials
+1. Install 
+2. Some R essentials
 
 Plotting
 
