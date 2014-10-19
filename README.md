@@ -1,6 +1,13 @@
 2014 Spring, KTDB On-the-job Traning
 =====================================
 ## Introduction to Statistical Inference
+1. Introduction to Statistics
+2. Data summarization 
+3. Inferential Statistics
+4. Statistical hypothesis
+5. Two sample test
+6. Statistical inference and sample size
+7. Equivalence and noninferiority test
 
 ## Some R Essentials: Getting Started as a Data Scientist
 1. Install 
