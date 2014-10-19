@@ -6,16 +6,11 @@
 
 1. Install 
 2. Some R essentials
-
-Plotting
-
-Programming with R
-
-Advance data manipulation with R
-
-Data mining with R
-
-Open API with XML and JSON
+3. Plotting
+4. Programming with R
+5. Advance data manipulation with R
+6. Data mining with R
+7. Open API with XML and JSON
 
 
 ## Statistical Analysis and Visualization with R
